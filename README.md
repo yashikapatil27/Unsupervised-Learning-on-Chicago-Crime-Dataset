@@ -1,6 +1,6 @@
 # **Chicago Crime Data Clustering**
 
-This project analyzes Chicago crime data from the Chicago Data Portal to identify patterns and trends using unsupervised clustering techniques. By using methods like K-Modes and Spectral Clustering, the aim is to uncover natural clusters in the dataset and identify contributing features. The dataset consists of million records with 21 categorical features, where 100k datapoints are used in this project.
+This project analyzes crime data from the **Chicago Data Portal** to identify patterns and trends using unsupervised clustering techniques. By employing methods such as **K-Modes** and **Spectral Clustering**, the objective is to uncover natural clusters in the dataset and understand the key features contributing to them. The dataset originally contains millions of records across 21 categorical features, of which 100,000 data points are utilized in this project for analysis.
 
 ---
 
@@ -13,7 +13,7 @@ This project analyzes Chicago crime data from the Chicago Data Portal to identif
 ├── feature_engineering.py # Feature Engineering 
 ├── clustering.py # Clustering: K-Modes, Hierarchical, and Spectral 
 ├── visualization.py # Visualization of clustering results 
-└── README.md # Documentation
+└── Report.pdf # Documentation
 ```
 
 ---
