@@ -4,12 +4,12 @@ This project analyzes crime data from the **Chicago Data Portal** to identify pa
 
 ## Skills and Approaches
 
-- Machine Learning Pipeline: Structured workflow for data preprocessing, feature selection, clustering (K-Modes and Spectral Clustering), and evaluation.
-- Python: Data manipulation, cleaning, and feature engineering using pandas, numpy, and scikit-learn.
-- Unsupervised Learning: K-Modes and Spectral Clustering for clustering categorical data.
-- Data Preprocessing: One-hot encoding, entropy-based feature selection
-- Visualization: Insights through pie charts, heatmaps, and trend plots using matplotlib and seaborn.
-- Cluster Analysis: Evaluation using Normalized Mutual Information (NMI).
+- **Machine Learning Pipeline**: Structured workflow for data preprocessing, feature selection, clustering (K-Modes and Spectral Clustering), and evaluation.
+- **Python**: Data manipulation, cleaning, and feature engineering using pandas, numpy, and scikit-learn.
+- **Unsupervised Learning**: K-Modes and Spectral Clustering for clustering categorical data.
+- **Data Preprocessing**: One-hot encoding, entropy-based feature selection
+- **Visualization**: Insights through pie charts, heatmaps, and trend plots using matplotlib and seaborn.
+- **Cluster Analysis**: Evaluation using Normalized Mutual Information (NMI).
 
 ---
 
