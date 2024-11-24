@@ -27,9 +27,7 @@ This project analyzes crime data from the **Chicago Data Portal** to identify pa
 
 ---
 
-## **Overview**
-
-### **1. Introduction**
+## **1. Introduction**
 The Chicago crime dataset contains records from 2001 to date and is used for predictive and analytical purposes. This project uniquely focuses on unsupervised learning to identify natural clusters in the data. The dataset includes categorical features such as crime types, locations, and timestamps.  
 
 Key Highlights:
