@@ -85,8 +85,7 @@ Key Highlights:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/chicago-crime-clustering.git
-   cd chicago-crime-clustering
+   git clone https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset
    ```
 2. **Add the Dataset**:
    - Download the dataset from [Chicago Data Portal](https://data.cityofchicago.org/).
