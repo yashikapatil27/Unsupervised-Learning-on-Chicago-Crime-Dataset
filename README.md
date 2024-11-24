@@ -5,7 +5,7 @@ This project analyzes Chicago crime data from the Chicago Data Portal to identif
 ---
 
 ## **File Structure**
-
+```bash
 ├── main.py # Main script to execute the entire pipeline 
 ├── eda.py # Exploratory Data Analysis (EDA) 
 ├── preprocessing.py # Data Cleaning and Transformation 
@@ -14,7 +14,7 @@ This project analyzes Chicago crime data from the Chicago Data Portal to identif
 ├── clustering.py # Clustering: K-Modes, Hierarchical, and Spectral 
 ├── visualization.py # Visualization of clustering results 
 └── README.md # Documentation
-
+```
 
 ---
 
