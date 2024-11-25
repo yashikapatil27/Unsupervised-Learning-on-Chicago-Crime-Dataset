@@ -1,4 +1,4 @@
-# **Chicago Crime Data Clustering**
+# **Unsupervised Learning on Chicago Crime Dataset**
 
 This project analyzes crime data from the **Chicago Data Portal** to identify patterns and trends using unsupervised clustering techniques. By employing methods such as **K-Modes** and **Spectral Clustering**, the objective is to uncover natural clusters in the dataset and understand the key features contributing to them. The dataset originally contains millions of records across 21 categorical features, of which 100,000 data points are utilized in this project for analysis.
 
