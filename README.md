@@ -35,8 +35,6 @@ Key Highlights:
 - **Algorithms Used**: K-Modes, Spectral Clustering  
 - **Evaluation Metric**: Normalized Mutual Information (NMI)  
 
----
-
 ### **2. Methods**
 
 #### **2.1 Exploratory Data Analysis (EDA)**
